@@ -1,0 +1,8 @@
+name: Modern-Flags
+version: 1.0
+main: ir.mehran1022.flags.ModernFlags
+api-version: 1.21
+author: mehran1022
+commands:
+  modern-flags:
+    description: Opens a menu with modern flags inside
