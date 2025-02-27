@@ -22,11 +22,25 @@
 |---------|------------|------------|  
 | `/flags` | Opens the flag selection menu | `modernflags.use` |  
 
-## 📷 Screenshots  
-![image](https://github.com/user-attachments/assets/1386207d-fcc6-4a36-8753-f3bdcada649b)
-![image](https://github.com/user-attachments/assets/8956f54f-862b-498c-a935-deb83f2659e0)
-![image](https://github.com/user-attachments/assets/2dc0fe06-66ea-4236-984c-100f61ebe956)
-![image](https://github.com/user-attachments/assets/33c767db-2d00-4b98-9b3d-74e60f2aea4c)
+## 📷 Screenshots
+
+Below are some preview images showcasing the **Modern Flags** plugin in action! 
+
+<div align="center">
+  
+### 🏳️ Flag Selection Menu
+
+<img src="https://github.com/user-attachments/assets/1386207d-fcc6-4a36-8753-f3bdcada649b" width="400" height="280" alt="Flag Selection Menu">
+
+<img src="https://github.com/user-attachments/assets/8956f54f-862b-498c-a935-deb83f2659e0" width="400" height="280" alt="Flag Selection Menu">
+
+<img src="https://github.com/user-attachments/assets/2dc0fe06-66ea-4236-984c-100f61ebe956" width="400" height="280" alt="Flag Selection Menu">
+
+### 🌎 Placed Flags in the World  
+
+<img src="https://github.com/user-attachments/assets/33c767db-2d00-4b98-9b3d-74e60f2aea4c" width="400" height="220" alt="Flags in Minecraft World">
+
+</div>
 
 ## 🤝 Contribute & Support  
 Got an idea or found a bug? Feel free to open an issue on [GitHub](https://github.com/Mehran1022mm/Modern-Flags)!  
